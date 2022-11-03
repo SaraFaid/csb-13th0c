@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sarafaid.github.io/csb-13th0c/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sarafaid.github.io/csb-13th0c/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://sarafaid.github.io/csb-13th0c/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://sarafaid.github.io/csb-13th0c/static/js/runtime-main.180703e5.js",
+    "runtime-main.js.map": "https://sarafaid.github.io/csb-13th0c/static/js/runtime-main.180703e5.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://sarafaid.github.io/csb-13th0c/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://sarafaid.github.io/csb-13th0c/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://sarafaid.github.io/csb-13th0c/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sarafaid.github.io/csb-13th0c/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://sarafaid.github.io/csb-13th0c/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.180703e5.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
